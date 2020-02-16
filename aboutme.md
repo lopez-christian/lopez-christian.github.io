@@ -14,7 +14,6 @@ My name is Christian Lopez. Grew up in San Jose, California, but now living in S
 
 And that was a little background about me. Anything else you'd want to know? 
 
-### quote to live by
+### Quote to live by: 
 
-Working hard for something we don't care about is called stressed; working hard for something we love is called passsion. 
-- Simon Sinek 
+Working hard for something we don't care about is called stressed; working hard for something we love is called passsion. -Simon Sinek 
