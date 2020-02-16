@@ -140,7 +140,7 @@ staticman:
 # --- Misc --- #
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: 195014508229176 
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
