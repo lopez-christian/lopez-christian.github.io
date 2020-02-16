@@ -4,7 +4,7 @@ title: 'My first data science project at Flatiron School ! '
 published: true
 date: '2020-02-15'
 ---
-**** Webscraping IMDb wesbite and developing dataset for visualizations:
+Webscraping IMDb wesbite and developing dataset for visualizations:
 
 By Christian Lopez 
 
