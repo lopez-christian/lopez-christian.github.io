@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'My first data science project at Flatiron School ! '
-image: /img/hello_world.jpeg
 published: true
+date: '2020-02-15'
+image: /Users/christianlopez/Downloads/brain
 ---
 ##
 
