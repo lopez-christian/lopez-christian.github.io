@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Christian Lopez. Grew up in San Jose, California, but now living in Southern California. I am a student at the University of California - San Diego. I am a cognitive neuroscience major with a minor in psychology. Currently attending the Flatiron School online data science bootcamp at the time of this posting. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am the proud father of a beautiful little frenchie-boston mix 
+- I love to be around my family and friends
+- I enjoy playing soccer and anything involving sports/outdoor activities 
+- I endulge in the beautiful weather San Diego has to offer ... 
+- I'm at the beach more than I should 
 
-What else do you need?
+And that was a little background about me. Anything else you'd want to know? 
 
-### my history
+### quote to live by
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Working hard for something we don't care about is called stressed; working hard for something we love is called passsion. 
+- Simon Sinek 
