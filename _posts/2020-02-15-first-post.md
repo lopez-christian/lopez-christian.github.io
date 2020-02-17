@@ -15,8 +15,7 @@ I started my project by first scraping the page of 250 movies, and retreiving al
 
 [Module 1 IMDb Webscraping Project](https://github.com/lopez-christian/module_1_project ) 
 
-I love this show ! 
+
 ![siliconvalley.jpeg]({{site.baseurl}}/img/siliconvalley.jpeg)
 
-Thank you for reading. 
-
+Thank you for reading.
