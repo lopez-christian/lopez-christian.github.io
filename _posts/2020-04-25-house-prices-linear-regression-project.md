@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'House Prices Linear Regression Project '
 date: '2020-04-25'
 ---
