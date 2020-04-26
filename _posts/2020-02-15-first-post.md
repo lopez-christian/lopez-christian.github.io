@@ -51,5 +51,5 @@ An interesting exploration and subsequent insight that was to look at the correl
 </p>
 
 <p align="center">
-link to project repo: https://github.com/lopez-christian/IMDb-Web-Scraping-Project
+https://github.com/lopez-christian/IMDb-Web-Scraping-Project
 </p>
