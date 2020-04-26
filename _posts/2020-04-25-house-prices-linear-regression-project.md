@@ -62,3 +62,7 @@ Please take a look at the jupyter notebook file included with this repository. I
 <p align="center">
 <img width="598" alt="Screen Shot 2020-04-25 at 9 22 05 PM" src="https://user-images.githubusercontent.com/53641091/80297736-de8f2f00-873a-11ea-95a5-91a893cf7887.png">
 </p>
+
+<p align="center">
+link to project repo: https://github.com/lopez-christian/House-Prices-Linear-Regression-Project
+</p>
