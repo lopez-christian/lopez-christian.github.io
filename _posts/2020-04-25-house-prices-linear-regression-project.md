@@ -66,3 +66,5 @@ Please take a look at the jupyter notebook file included with this repository. I
 <p align="center">
 <a href=https://github.com/lopez-christian/House-Prices-Linear-Regression-Project>House Prices Linear Regression Project</a>
 </p>
+
+[House Prices Linear Regression Project](https://github.com/lopez-christian/House-Prices-Linear-Regression-Project)
