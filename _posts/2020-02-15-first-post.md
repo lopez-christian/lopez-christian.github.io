@@ -3,7 +3,9 @@ layout: post
 title: 'IMDb Webscraping Project '
 published: true
 date: '2020-02-15'
-image: "<img src=\"https://user-images.githubusercontent.com/53641091/80299378-bc9ca900-8748-11ea-94a9-20e125e250b1.png\" alt=\"Screen Shot 2020-04-25 at 11 01 31 PM\" \ttitle=\"Movie Wheel\" width=\"150\" height=\"100\" />"
+image: >-
+  <img src="movie wheel.png" alt="movie wheel" title="movie wheel" width="150"
+  height="100" />
 ---
 # Webscraping IMDb's website and developing dataset:
 
