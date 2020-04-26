@@ -3,6 +3,7 @@ layout: post
 title: 'IMDb Webscraping Project '
 published: true
 date: '2020-02-15'
+image: "<img src=\"movie_wheel.jpeg\" alt=\"Movie Wheel\" \ttitle=\"movie wheel\" width=\"150\" height=\"100\" />"
 ---
 # Webscraping IMDb's website and developing dataset:
 
@@ -51,4 +52,3 @@ An interesting exploration and subsequent insight that was to look at the correl
 </p>
 
 [IMDb Webscraping Project](https://github.com/lopez-christian/IMDb-Web-Scraping-Project)
-
