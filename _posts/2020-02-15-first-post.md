@@ -50,6 +50,5 @@ An interesting exploration and subsequent insight that was to look at the correl
 <img width="612" alt="Screen Shot 2020-04-25 at 8 33 16 PM" src="https://user-images.githubusercontent.com/53641091/80296997-28284b80-8734-11ea-99b6-d602f5e32731.png">
 </p>
 
-<p align="center">
-<a href=https://github.com/lopez-christian/IMDb-Web-Scraping-Project/>IMDb Webscraping Project</a>
-</p>
+[IMDb Webscraping Project](https://github.com/lopez-christian/IMDb-Web-Scraping-Project)
+
