@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 'IMDb Webscraping Project '
-image: <img width="200" alt="movie wheel" src="https://user-images.githubusercontent.com/53641091/80302347-5d499380-875e-11ea-91cc-81acb978371a.png">
 published: true
 date: '2020-02-15'
 ---
