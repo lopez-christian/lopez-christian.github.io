@@ -2,6 +2,7 @@
 layout: post
 title: 'IMDb Webscraping Project '
 published: true
+featured-image: movie%20wheel.png
 date: '2020-02-15'
 ---
 # Webscraping IMDb's website and developing dataset:
