@@ -3,7 +3,7 @@ layout: post
 title: 'IMDb Webscraping Project '
 published: true
 date: '2020-02-15'
-image: "<img src=\"movie_wheel.jpeg\" alt=\"Movie Wheel\" \ttitle=\"movie wheel\" width=\"150\" height=\"100\" />"
+image: "<img src=\"Users/christianlopez/Downloads/movie_wheel.jpeg \" alt=\"Movie Wheel\" \ttitle=\"Movie Wheel\" width=\"150\" height=\"100\" /> "
 ---
 # Webscraping IMDb's website and developing dataset:
 
