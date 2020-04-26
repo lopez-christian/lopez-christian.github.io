@@ -4,7 +4,7 @@ title: 'IMDb Webscraping Project '
 published: true
 date: '2020-02-15'
 ---
-# Webscraping IMDb's website and developing dataset: 
+# Webscraping IMDb's website and developing dataset:
 
 <p align="center">
 <img width="916" alt="Screen Shot 2020-04-25 at 8 04 34 PM" src="https://user-images.githubusercontent.com/53641091/80296855-198d6480-8733-11ea-8129-eb602b5a1b5a.png">
