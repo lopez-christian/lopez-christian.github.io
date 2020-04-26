@@ -64,5 +64,5 @@ Please take a look at the jupyter notebook file included with this repository. I
 </p>
 
 <p align="center">
-link to project repo: https://github.com/lopez-christian/House-Prices-Linear-Regression-Project
+https://github.com/lopez-christian/House-Prices-Linear-Regression-Project
 </p>
