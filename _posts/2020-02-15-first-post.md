@@ -1,21 +1,34 @@
 ---
 layout: post
-title: 'my first data science project '
+title: 'IMDb Webscraping Project '
 published: true
 date: '2020-02-15'
 ---
-**Webscraping IMDb wesbite and developing dataset for visualizations:**
+# Webscraping IMDb's website and developing dataset using the TOP 250 films of all-time:
+
+This project incorporates some data scraping, data wrangling, data cleaning, and visualizations.
+
+The purpose of the project was to explore the data within IMDb's TOP 250 films of all-time and determine if there were any meaninful conlcusions I could derive from such. I was looking for any correlations between the features I scraped that would eventually be used to drive my visualizations.
+
+The action genre seems to be the most promising in terms of breaking into film industry. The spread represents many more data points then do the other genres. Although action doesn't have the films with the highest metascores, they are represented much more amongst the films in the TOP 250 IMDb movies of all-time. If a company decided to go ahead and produce an action-packed film, their chances of making it into the TOP 250 would be much greater than if they were to go with any other genre.
+
+The director that seems to garner the most votes in the action genre appears to be Christopher Nolan when looking at the TOP 20 action films. The Dark Knight is his most successful film with almost double the votes compared to his other films. James Cameron comes in second with Avatar amassing around 1.08 million votes. It'd be smart for the company to hedge their bets and hire Christopher Nolan as their director if they aspire to break in.
+
+When looking at the top actors for the TOP 20 action films, we see three names stick out above the rest. They are: Christian Bale, Mark Hamill, and Robert Downey Jr. With counts of 3, 3, and 2, respectively. If the company had to go with one of these stars, I would definitely recommend they go with Christian Bale. And you may be asking yourself, why not Mark Hamill, since he is also in the TOP 20 action films? ... Hopefully, the scatterplot below illustrates my point a little better.
+
+Christian Bale's appearances in the Batman Begins, The Dark Knight Rises, and the Dark Knight all have more votes than do the films where Mark Hamill is in. Those being Star Wars: Episode IV- A New Hope, Star Wars: Episode V- The Empire Strikes Back, and Star Wars: Episode VI- Return of the Jedi. The film with the least votes for Christian Bale has more votes than the movie starring Mark Hamill with the most votes. Also, Christian Bale's films are all directed by Christopher Nolan, whereas Mark Hamill's films are directed by three different directors. Without a doubt, the Christopher Nolan-Christian Bale duo would be a banger in the industry and would definitely disrupt the space in a positive way. The company's venture would certainly reap the rewards.
+
+An interesting exploration and subsequent insight that was to look at the correlation between times and gross in terms of genre. What can be derived from this is that the films in the action genre tend to have higher gross as the timespan of the film increases. What this tells the company is that when making their action film, they should focus on making it on the longer side.
+
+## Key takeways:
+
+*1. Stick with the action genre.*
+
+*2. Try your best to hire Christopher Nolan as the director for your film.*
+
+*3. Christian Bale is by far your safest bet at a quality action-packed film.*
+
+*4. Make the action film longer. The longer the timespan the better it does in the box-office in terms of gross.*
 
 
-I will start my first data science blog post by admitting that I was extremely anxious and scared coming into this project. I did not know what to expect and assumed the worst coming into it. I was nervous beyond belief, but that all changed once I started working on it. I had a flawed misconception, believing I had to have memorized everything I was going over in my data science curriculum on Flatiron School. I'm glad to say that is not the case, and in fact, the data science community is very helpful and motivating. Stackoverflow, and Github became my best friends during the process. It was encouraging to see that there were many people that didn't know what I didn't know either, but collectively we could all achieve the end goal together. 
 
-I started off the project very rusty, taking a long time to research certain things, but once I got into the groove of things it became a lot easier. I noticed that everyday it was a process of getting my brain and mental state ready for the work ahead. I never knew I'd love data science as much as I do. I enjoy the data wrangling, data cleaning, rendering of visualizations and everything in-between. Although, it can be a little frustating at first, it feels so good when you upload the finished product and have something to show for in your academic portfolio. 
-    
-I started my project by first scraping the page of 250 movies, and retreiving all the relevant information I needed to build my dataset. Then I went ahead and cleaned the dataset by dropping all nan values and erroneous data points. I made sure the formatting of the dataset and the datatypes were ready for exploration before starting my visualizations. I hope you take the time to look over my first attempt at a complete data science project and don't hesitate to let me know what you think and/or any recommendations you may have to help me improve. I will include the link to my Github module 1 project below. 
-
-[Module 1 IMDb Webscraping Project](https://github.com/lopez-christian/module_1_project ) 
-
-
-![siliconvalley.jpeg]({{site.baseurl}}/img/siliconvalley.jpeg)
-
-Thank you for reading.
