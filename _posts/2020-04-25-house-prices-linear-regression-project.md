@@ -9,7 +9,7 @@ date: '2020-04-25'
 This project will make use of Pandas, and NumPy for the data exploration phase as well as using Matplotlib and Seaborn to form visualizations. We will then be using Scikit-Learn to model our multi-variate linear regression. We will incorporate some dummies datasets creation to deal with categorical data as well as log-transformation methodology to deal with the continuous features of the dataset.
 
 <p align="center">
-<img width="318" alt="Screen Shot 2020-04-25 at 7 16 53 PM" src="https://user-images.githubusercontent.com/53641091/80295644-5d7b6c00-8729-11ea-8250-951c296a188f.png">
+<img width="279" alt="Screen Shot 2020-04-27 at 10 03 24 PM" src="https://user-images.githubusercontent.com/53641091/80449054-f4cff300-88d2-11ea-80fb-7e6afd8e6d8d.png">
 </p>
 
 The purpose of this project is to come up with ways in which to maximize profitability for sellers attempting to sell a home in King County,WA. We will search for actionable insights that will serve guidance to these sellers, but we need a thorough understanding of the dynamics of the housing market in order to drive our calculated decisions.
