@@ -12,7 +12,7 @@ date: '2020-02-15'
 
 This project incorporates some data scraping, data wrangling, data cleaning, and visualizations.
 
-The purpose of the project was to explore the data within IMDb's TOP 250 films of all-time and determine if there were any meaninful conlcusions I could derive from such. I was looking for any correlations between the features I scraped that would eventually be used to drive my visualizations.
+The purpose of the project was to explore the data within IMDb's TOP 250 films of all-time and determine if there were any meaningful conclusions I could derive from such. I was looking for any correlations between the features I scraped that would eventually be used to drive my visualizations.
 
 <p align="center">
 <img width="876" alt="Screen Shot 2020-04-25 at 8 04 52 PM" src="https://user-images.githubusercontent.com/53641091/80296870-45104f00-8733-11ea-9483-c91f2df07285.png">
