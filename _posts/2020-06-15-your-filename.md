@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: ''
 subtitle: Liver Disease Machine Learning Project
 date: '2020-06-15'
