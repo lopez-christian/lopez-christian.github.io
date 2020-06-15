@@ -1,8 +1,7 @@
 ---
 layout: post
 published: true
-title: ''
-subtitle: Liver Disease Machine Learning Project
+title: 'Liver Disease Machine Learning Project'
 date: '2020-06-15'
 ---
 ## A New Post
