@@ -19,7 +19,7 @@ For this project I went ahead and implemented a number of machine learning algor
 The data mining and exploration step dealt some interesting insights regarding the data. There were some compelling countplots and undelying correlations that I came across. I won't list them all, but I will say that most of the people that were tested were male patients. The description of the dataset did not provide any background as to why this is so. Also, most of the patients that tested positive were male. The discrepencies were astonishing. Adults aged 24-63 were also significantly impacted by this liver disease, as opposed to young patients, and the elderly. There were also high correlations between certain features like direct bilirubin v. total bilirubin, alamine aminotransferase v. aspartate aminotransferase, total proteins v. albumin, and albumin v. albumin and globulin ratio. 
 
 <p align="center">
-<img width="998" alt="Screen Shot 2020-06-15 at 6 41 37 PM" src="https://user-images.githubusercontent.com/53641091/84722369-dc29a400-af37-11ea-880a-03f63e4be6e0.png">
+<img width="1010" alt="Screen Shot 2020-06-16 at 12 04 03 PM" src="https://user-images.githubusercontent.com/53641091/84817262-7dad0600-afc9-11ea-97eb-69f1247040e7.png">
 </p>
 
 <p align="center">
