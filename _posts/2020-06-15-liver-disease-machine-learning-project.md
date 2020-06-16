@@ -63,7 +63,7 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 *3. Adults between the ages of 24-63 years old seem to be the most in danger. This can be attributed to these adults being tested more often for liver disease than are young people and the elderly. We may need to focus more on testing these other demographics. There is a strong possibility that we are missing the greater picture here. If we were to focus on testing the youth and improving their dietary intake, decreasing alcohol consumption, addressing pollution, decontaminating food, and eradicating drug use, we may arrive at a stage where we can prevent our youth from developing liver disease later in their lives.*
 
 <p align="center">
-<img width="412" alt="Screen Shot 2020-06-15 at 7 10 22 PM" src="https://user-images.githubusercontent.com/53641091/84724237-83a8d580-af3c-11ea-88fa-518d16379fe0.png"><img width="486" alt="Screen Shot 2020-06-15 at 7 17 35 PM" src="https://user-images.githubusercontent.com/53641091/84724391-ee5a1100-af3c-11ea-969a-c9827d94e308.png">
+<img width="843" alt="Screen Shot 2020-06-15 at 7 51 54 PM" src="https://user-images.githubusercontent.com/53641091/84726443-b0abb700-af41-11ea-8e2d-d4d62b7b028e.png">
 </p>
 
 [Liver Disease Machine Learning Project](https://github.com/lopez-christian/Liver-Disease-Machine-Learning-Project)
