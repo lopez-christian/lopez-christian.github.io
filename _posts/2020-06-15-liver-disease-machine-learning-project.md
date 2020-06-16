@@ -10,7 +10,7 @@ date: '2020-06-15'
 <img width="661" alt="Screen Shot 2020-06-15 at 6 39 33 PM" src="https://user-images.githubusercontent.com/53641091/84722268-910f9100-af37-11ea-8950-8210f5ccd481.png">
 </p>
 
-For this project I went ahead and implemented a number of machine learning algorithms on the dataset: Indian Liver Patient Records - Patient records collected from North East of Andhra Pradesh, India. The goal was to better predict whether an individual is likely to develop liver disease given certain features which included the age, gender, total bilirubin, direct bilirubin, alkaline phosphotase, alamine aminotransferase, aspartate aminotransferase, total proteins, albumin, and albumin and globulin ratio of the individual.  
+For this project I went ahead and implemented a number of machine learning algorithms on the dataset: Indian Liver Patient Records - Patient records collected from North East of Andhra Pradesh, India (https://www.kaggle.com/uciml/indian-liver-patient-records). The goal was to better predict whether an individual is likely to develop liver disease given certain features which included the age, gender, total bilirubin, direct bilirubin, alkaline phosphotase, alamine aminotransferase, aspartate aminotransferase, total proteins, albumin, and albumin and globulin ratio of the individual.  
 
 <p align="center">
 <img width="992" alt="Screen Shot 2020-06-15 at 6 53 26 PM" src="https://user-images.githubusercontent.com/53641091/84723028-881fbf00-af39-11ea-8587-dd7ddfc2bd72.png">
