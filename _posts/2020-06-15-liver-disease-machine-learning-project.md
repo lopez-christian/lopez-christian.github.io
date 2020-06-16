@@ -51,7 +51,7 @@ The dataset was manipulated and cleaned using an assortment of libraries that in
 After creating our machine learning-ready-dataset we went ahead and applied our machine learning algorithms. These were classification algorithms that included Support Vector Machines (SVM), K-Nearest Neighbors, Decision Tree, Random Forest, Gradient Boosting Machines (GBM), eXtreme Gradient Boosting (XGBoost), and AdaBoost. These produced varying test metrics, and AUC measures. The. highest ranking proved to be the Random Forest algorithm with Accuracy Score: 0.7678571428571429 and AUC: 0.64140625. The AUCs were used to create and ROC/AUC Curve plot that compared all the algorithms. Having arrived at the conlusion that Random Forest was the best-performing out of the bunch, I went ahead and executed some hyperparameter tuning and optimizations using RandomizedSearchCV. Another ROC/AUC Curve plot was generated to show the newly incorporated Random Forest + Optimization AUC. The Random Forest + Optimization algorithm had Accuracy Score: 0.7440476190476191 and AUC: 0.55703125. This algorithm did slightly worse on both measures when compared to the Random Forest on default parameters. 
 
 <p align="center">
-<img width="560" alt="Screen Shot 2020-06-15 at 7 06 31 PM" src="https://user-images.githubusercontent.com/53641091/84723808-5d366a80-af3b-11ea-8d5e-895767f4b573.png">
+<img width="843" alt="Screen Shot 2020-06-15 at 7 51 54 PM" src="https://user-images.githubusercontent.com/53641091/84726443-b0abb700-af41-11ea-8e2d-d4d62b7b028e.png">
 </p>
 
 ## Key takeways:
@@ -63,7 +63,7 @@ After creating our machine learning-ready-dataset we went ahead and applied our 
 *3. Adults between the ages of 24-63 years old seem to be the most in danger. This can be attributed to these adults being tested more often for liver disease than are young people and the elderly. We may need to focus more on testing these other demographics. There is a strong possibility that we are missing the greater picture here. If we were to focus on testing the youth and improving their dietary intake, decreasing alcohol consumption, addressing pollution, decontaminating food, and eradicating drug use, we may arrive at a stage where we can prevent our youth from developing liver disease later in their lives.*
 
 <p align="center">
-<img width="843" alt="Screen Shot 2020-06-15 at 7 51 54 PM" src="https://user-images.githubusercontent.com/53641091/84726443-b0abb700-af41-11ea-8e2d-d4d62b7b028e.png">
+<img width="412" alt="Screen Shot 2020-06-15 at 7 10 22 PM" src="https://user-images.githubusercontent.com/53641091/84726546-f9fc0680-af41-11ea-95c8-a270c3616f42.png"><img width="486" alt="Screen Shot 2020-06-15 at 7 17 35 PM" src="https://user-images.githubusercontent.com/53641091/84726580-0f713080-af42-11ea-8c9c-636995ff2acf.png">
 </p>
 
 [Liver Disease Machine Learning Project](https://github.com/lopez-christian/Liver-Disease-Machine-Learning-Project)
