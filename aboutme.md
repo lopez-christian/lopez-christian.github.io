@@ -22,6 +22,8 @@ My name is Christian Lopez. I grew up in San Jose, California, but now residing 
 </p>
 
 And that was a little background about me. Anything else you'd like to know? Please don't hesitate to shoot me an email at: 
+
+
 <a href="lopezchristiands@gmail.com">lopezchristiands@gmail.com</a>
 
 ### Quote to live by: 
