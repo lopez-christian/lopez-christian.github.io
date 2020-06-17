@@ -2,7 +2,6 @@
 layout: post
 published: true
 title: 'Liver Disease Machine Learning Project'
-thumbnail: "<img width="294" alt="Screen Shot 2020-06-16 at 5 21 58 PM" src="https://user-images.githubusercontent.com/53641091/84840996-fcb83380-aff5-11ea-8f27-1a9397094c41.png">"
 date: '2020-06-15'
 ---
 ## Implementing Various Machine Learning Algorithms and Hyperparameter Tuning On The Indian Liver Patient Records Dataset
