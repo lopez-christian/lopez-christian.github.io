@@ -11,7 +11,6 @@ My name is Christian Lopez. I grew up in San Jose, California, but now residing 
 - I enjoy playing soccer and anything involving sports/outdoor activities 
 - I love to learn ... learn ... and learn 
 - I relish in the idea of pick my brain with new ideas and concepts  
---- 
 
 <p align = 'center'>
 <img width="357" alt="Screen Shot 2020-06-16 at 4 51 18 PM" src="https://user-images.githubusercontent.com/53641091/84840129-84e90980-aff3-11ea-9b35-c1eb40aa9527.png">
