@@ -23,8 +23,7 @@ My name is Christian Lopez. I grew up in San Jose, California, but now residing 
 
 And that was a little background about me. Anything else you'd like to know? Please don't hesitate to shoot me an email at: 
 
-
-<a href="lopezchristiands@gmail.com">lopezchristiands@gmail.com</a>
+[lopezchristiands@gmail.com](mailto:lopezchristiands@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ### Quote to live by: 
 
