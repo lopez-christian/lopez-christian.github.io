@@ -21,7 +21,8 @@ My name is Christian Lopez. I grew up in San Jose, California, but now residing 
 <img width="357" alt="Screen Shot 2020-06-16 at 4 52 01 PM" src="https://user-images.githubusercontent.com/53641091/84839501-0c357d80-aff2-11ea-9f81-c681d0e0ad18.png">
 </p>
 
-And that was a little background about me. Anything else you'd like to know? Please don't hesitate to shoot me an email at: lopezchristiands@gmail.com
+And that was a little background about me. Anything else you'd like to know? Please don't hesitate to shoot me an email at: 
+<a href="lopezchristiands@gmail.com">lopezchristiands@gmail.com</a>
 
 ### Quote to live by: 
 
