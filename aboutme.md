@@ -10,10 +10,11 @@ subtitle: ...
 
 My name is Christian Lopez. I grew up in San Jose, California, but now residing in Las Vegas, NV. Currently an online student at the University of California - San Diego. I'm majoring in cognitive neuroscience with a minor in psychology and attending the Flatiron School online data science bootcamp at the time of this posting. 
 
+- I take delight in exploring the outdoors alongside my beautfiful girlfriend 👩🏻‍🤝‍👨🏽
 - I am the proud father to a beautiful little frenchie-boston mix 🐶
 - I love to be around my family and friends 🌍
 - I enjoy playing soccer and anything involving sports/outdoor activities ⚽️
-- I love to learn ... learn ... and learn 📝
+- I take appreciation in learning ... learning ... and learning 📝
 - I relish in the idea of picking at my brain with new ideas and concepts 🧠
 
 <p align = 'center'>
@@ -30,4 +31,4 @@ And that was a little background about me. Anything else you'd like to know? Ple
 
 ### Quote to live by 💯 
 
-Working hard for something we don't care about is called stressed; working hard for something we love is called passsion. -Simon Sinek 
+"All our dreams come true, if we have the courage to pursue them." - Walt Disney 🚀
