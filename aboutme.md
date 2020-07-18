@@ -10,7 +10,7 @@ subtitle: ...
 
 My name is Christian Lopez. I grew up in San Jose, California, but now residing in Las Vegas, NV. Currently an online student at the University of California - San Diego. I'm majoring in cognitive neuroscience with a minor in psychology and attending the Flatiron School online data science bootcamp at the time of this posting. 
 
-- I take delight in exploring the outdoors alongside my beautfiful girlfriend 👩🏻‍🤝‍👨🏽
+- I take delight in exploring the outdoors alongside my beautiful girlfriend 👩🏻‍🤝‍👨🏽
 - I am the proud father to a beautiful little frenchie-boston mix 🐶
 - I love to be around my family and friends 🌍
 - I enjoy playing soccer and anything involving sports/outdoor activities ⚽️
