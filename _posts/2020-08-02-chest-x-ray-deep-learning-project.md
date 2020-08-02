@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Chest X-Ray Deep Learning Project
 ---
 ## A New Post
