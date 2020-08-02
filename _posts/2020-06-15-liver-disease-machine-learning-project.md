@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Liver Disease Machine Learning Project'
+title: "Liver Disease Machine Learning Project"
 date: '2020-06-15'
 ---
 ## Implementing Various Machine Learning Algorithms and Hyperparameter Tuning On The Indian Liver Patient Records Dataset
