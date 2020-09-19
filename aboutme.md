@@ -5,8 +5,7 @@ subtitle: ...
 ---
 
 <p align = 'center'>
-<img width="839" alt="Screen Shot 2020-09-16 at 10 12 46 PM" src="https://user-images.githubusercontent.com/53641091/93423032-e0809880-f869-11ea-8e52-f195c77de85f.png">
-
+<img width="499" alt="Screen Shot 2020-06-17 at 12 23 28 PM" src="https://user-images.githubusercontent.com/53641091/93658569-962a2380-f9f1-11ea-9dc5-702fb01f52ca.png">
 </p>
 
 My name is Christian Lopez. I grew up in San Jose, California, but now residing in Las Vegas, NV. Currently an online student at the University of California - San Diego. I'm majoring in cognitive neuroscience with a minor in psychology and attending the Flatiron School online data science bootcamp at the time of this posting. 
