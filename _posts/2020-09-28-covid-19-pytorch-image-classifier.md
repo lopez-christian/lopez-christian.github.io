@@ -105,7 +105,7 @@ The most interesting and fun part is the training phase of the project. Wherein,
     discoveries that will lead to advances in the medical field.*
     
 <p align='center'>
-<img width="496" alt="Screen Shot 2020-09-28 at 10 52 22 PM" src="https://user-images.githubusercontent.com/53641091/94517718-62af7c00-01dd-11eb-9e37-3fa4048211ed.png">
+<img width="489" alt="Screen Shot 2020-09-28 at 10 56 14 PM" src="https://user-images.githubusercontent.com/53641091/94517985-e2d5e180-01dd-11eb-81e0-a5e55ac44352.png">
 </p>
 
 [COVID-19-PyTorch-Image-Classifier](https://github.com/lopez-christian/COVID-19-PyTorch-Image-Classifier)
