@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'COVID-19-PyTorch-Image-Classifier'
+title: 'COVID-19 PyTorch Image Classifier'
 date: '2020-09-28'
 ---
 ## Detecting COVID-19 using images from COVID-19 Radiography Database from Kaggle
