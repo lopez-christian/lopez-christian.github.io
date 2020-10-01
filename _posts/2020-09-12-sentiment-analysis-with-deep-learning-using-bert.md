@@ -64,11 +64,11 @@ Task 9: Creating our Training Loop
 
 #### <ins> PROJECT SCREENSHOTS: </ins>
 
-[Coursera Project Link](https://www.coursera.org/projects/sentiment-analysis-bert?)
+[COURSERA PROJECT LINK](https://www.coursera.org/projects/sentiment-analysis-bert?)
 
-[Project Google Drive](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
+[PROJECT GOOGLE LINK](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
 
-[My Course Certificate](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
+[MY COURSE CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
 
 <p align="center">
 <img width="396" alt="Screen Shot 2020-10-01 at 10 35 14 AM" src="https://user-images.githubusercontent.com/53641091/94843634-d3b78500-03d1-11eb-88dc-b4e11394ff81.png">
