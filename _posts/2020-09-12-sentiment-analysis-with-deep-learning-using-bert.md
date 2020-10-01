@@ -30,6 +30,8 @@ Evaluate performance using F1 scores and accuracy
 
 Finetune BERT using training loop
 
+#### <ins> PROJECT PURPOSE: </ins>
+
 For this guided project from Coursera Project Network the purpose was to analyze a dataset for sentiment analysis. We learned how to read in a PyTorch BERT model, and adjust the architecture for multi-class classification. We learned how to adjust an optimizer and scheduler for ideal training and performance. While fine-tuning this model, we also learned how to design a train and evaluate loop to monitor model performance as it trains, including saving and loading models. The end result was a Sentiment Analysis model that leverages BERT's large-scale language knowledge. 
 
 #### <ins> PROJECT OUTLINE: </ins>
@@ -62,7 +64,7 @@ Task 9: Creating our Training Loop
 <img width="1131" alt="Screen Shot 2020-10-01 at 10 38 44 AM" src="https://user-images.githubusercontent.com/53641091/94843948-4d4f7300-03d2-11eb-8070-0e1f96478bad.png">
 </p>
 
-#### <ins> PROJECT SCREENSHOTS: </ins>
+#### <ins> HELPFUL LINKS: </ins>
 
 [COURSERA PROJECT LINK](https://www.coursera.org/projects/sentiment-analysis-bert?)
 
