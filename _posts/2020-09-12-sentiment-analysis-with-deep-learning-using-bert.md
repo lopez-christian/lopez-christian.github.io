@@ -19,11 +19,17 @@ For this guided project from Coursera Project Network the purpose was to analyze
 #### <ins> KEY CONCEPTS: </ins>
 
 - What BERT is and what it can do
+
 - Clean and preprocess text dataset
+
 - Split dataset into training and validation sets using stratified approach
+
 - Tokenize (encode) dataset using BERT toknizer
+
 - Design BERT finetuning architecture
+
 - Evaluate performance using F1 scores and accuracy
+
 - Finetune BERT using training loop
 
 #### <ins> PROJECT OUTLINE: </ins>
