@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: sentiment-analysis-with-deep-learning-using-BERT
 date: '2020-09-12'
 ---
