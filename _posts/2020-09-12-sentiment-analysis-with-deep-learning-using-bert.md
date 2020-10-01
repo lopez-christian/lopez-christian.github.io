@@ -52,18 +52,18 @@ Task 8: Defining our Performance Metrics
 
 Task 9: Creating our Training Loop
 
-#### <ins> Project Screenshots: </ins>
+#### <ins> Project SCREENSHOTS: </ins>
 
 <p align="center">
-<<img width="1157" alt="Screen Shot 2020-10-01 at 10 03 33 AM" src="https://user-images.githubusercontent.com/53641091/94840710-b4b6f400-03cd-11eb-9716-8671a969f852.png">
+<img width="1157" alt="Screen Shot 2020-10-01 at 10 03 33 AM" src="https://user-images.githubusercontent.com/53641091/94840710-b4b6f400-03cd-11eb-9716-8671a969f852.png">
 </p>
 
 <p align="center">
-<img width="964" alt="Screen Shot 2020-10-01 at 9 33 58 AM" src="https://user-images.githubusercontent.com/53641091/94837890-a8309c80-03c9-11eb-89ad-c57bd91ce826.png">
+<img width="1135" alt="Screen Shot 2020-10-01 at 10 09 53 AM" src="https://user-images.githubusercontent.com/53641091/94841038-44f53900-03ce-11eb-80f5-5796ebfd168f.png">
 </p>
 
 <p align="center">
-<img width="964" alt="Screen Shot 2020-10-01 at 9 33 58 AM" src="https://user-images.githubusercontent.com/53641091/94837890-a8309c80-03c9-11eb-89ad-c57bd91ce826.png">
+<img width="401" alt="Screen Shot 2020-10-01 at 9 33 19 AM" src="https://user-images.githubusercontent.com/53641091/94841088-5b02f980-03ce-11eb-826f-ed7fd039c43c.png">
 </p>
 
 *1. .*
