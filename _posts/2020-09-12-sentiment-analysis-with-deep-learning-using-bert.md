@@ -13,9 +13,6 @@ date: '2020-09-12'
 <p align="center">
 <img width="599" alt="Screen Shot 2020-10-01 at 9 33 39 AM" src="https://user-images.githubusercontent.com/53641091/94837940-b7174f00-03c9-11eb-9a22-790493d848b8.png">
 </p>
-
-For this guided project from Coursera Project Network the purpose was to analyze a dataset for sentiment analysis. We learned how to read in a PyTorch BERT model, and adjust the architecture for multi-class classification. We learned how to adjust an optimizer and scheduler for ideal training and performance. While fine-tuning this model, we also learned how to design a train and evaluate loop to monitor model performance as it trains, including saving and loading models. The end result was a Sentiment Analysis model that leverages BERT's large-scale language knowledge. 
-
 #### <ins> KEY CONCEPTS: </ins>
 
 - What BERT is and what it can do
@@ -31,6 +28,8 @@ For this guided project from Coursera Project Network the purpose was to analyze
 - Evaluate performance using F1 scores and accuracy
 
 - Finetune BERT using training loop
+
+For this guided project from Coursera Project Network the purpose was to analyze a dataset for sentiment analysis. We learned how to read in a PyTorch BERT model, and adjust the architecture for multi-class classification. We learned how to adjust an optimizer and scheduler for ideal training and performance. While fine-tuning this model, we also learned how to design a train and evaluate loop to monitor model performance as it trains, including saving and loading models. The end result was a Sentiment Analysis model that leverages BERT's large-scale language knowledge. 
 
 #### <ins> PROJECT OUTLINE: </ins>
 
