@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Facial Expression Recognition with Keras
 date: '2020-10-01'
 ---
