@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: perform-sentiment-analysis-with-scikit-learn
+published: true
+title: Perform Sentiment Analysis with SciKit-Learn
 date: '2020-09-27'
 ---
 ## A New Post
