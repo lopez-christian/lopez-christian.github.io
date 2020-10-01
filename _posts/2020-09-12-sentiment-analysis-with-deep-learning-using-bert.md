@@ -59,19 +59,16 @@ Task 9: Creating our Training Loop
 </p>
 
 <p align="center">
-<img width="1135" alt="Screen Shot 2020-10-01 at 10 09 53 AM" src="https://user-images.githubusercontent.com/53641091/94841038-44f53900-03ce-11eb-80f5-5796ebfd168f.png">
+<img width="1131" alt="Screen Shot 2020-10-01 at 10 38 44 AM" src="https://user-images.githubusercontent.com/53641091/94843948-4d4f7300-03d2-11eb-8070-0e1f96478bad.png">
 </p>
 
 #### <ins> PROJECT SCREENSHOTS: </ins>
 
-<center>[Coursera Project Link](https://www.coursera.org/projects/sentiment-analysis-bert?)
-</center>
+[Coursera Project Link](https://www.coursera.org/projects/sentiment-analysis-bert?)
 
-<center>[Project Google Drive](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
-</center>
+[Project Google Drive](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
 
-<center>[My Course Certificate](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
-</center>
+[My Course Certificate](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
 
 <p align="center">
 <img width="396" alt="Screen Shot 2020-10-01 at 10 35 14 AM" src="https://user-images.githubusercontent.com/53641091/94843634-d3b78500-03d1-11eb-88dc-b4e11394ff81.png">
