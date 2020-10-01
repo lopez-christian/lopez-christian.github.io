@@ -52,7 +52,7 @@ Task 8: Defining our Performance Metrics
 
 Task 9: Creating our Training Loop
 
-#### <ins> Project SCREENSHOTS: </ins>
+#### <ins> PROJECT SCREENSHOTS: </ins>
 
 <p align="center">
 <img width="1157" alt="Screen Shot 2020-10-01 at 10 03 33 AM" src="https://user-images.githubusercontent.com/53641091/94840710-b4b6f400-03cd-11eb-9716-8671a969f852.png">
@@ -66,6 +66,10 @@ Task 9: Creating our Training Loop
 <img width="401" alt="Screen Shot 2020-10-01 at 9 33 19 AM" src="https://user-images.githubusercontent.com/53641091/94841088-5b02f980-03ce-11eb-826f-ed7fd039c43c.png">
 </p>
 
-*1. .*
+#### <ins> PROJECT SCREENSHOTS: </ins>
 
-[COVID-19 PyTorch Image Classifier](https://github.com/lopez-christian/COVID-19-PyTorch-Image-Classifier)
+[Coursera Project Link](https://www.coursera.org/projects/sentiment-analysis-bert?)
+
+[Project Google Drive](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
+
+[My Course Certificate](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
