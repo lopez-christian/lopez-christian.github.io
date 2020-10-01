@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Sentiment-Analysis-with-Deep-Learning-Using-BERT
+title: Sentiment Analysis with Deep Learning Using BERT
 date: '2020-09-12'
 ---
 ## A New Post
