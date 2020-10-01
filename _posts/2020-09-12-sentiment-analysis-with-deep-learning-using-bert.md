@@ -66,7 +66,7 @@ Task 9: Creating our Training Loop
 
 [COURSERA PROJECT LINK](https://www.coursera.org/projects/sentiment-analysis-bert?)
 
-[PROJECT GOOGLE LINK](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
+[PROJECT GOOGLE DRIVE](https://drive.google.com/drive/folders/13R8eF8KIoKtcaPUo2zR32pWXYxjvN0Mk?usp=sharing)
 
 [MY COURSE CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/G2LEKHR5JH7P)
 
