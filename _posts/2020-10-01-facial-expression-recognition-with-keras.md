@@ -4,7 +4,7 @@ published: true
 title: Facial Expression Recognition with Keras
 date: '2020-10-01'
 ---
-## Building & Training a Convolutional Neural Network in Keras
+## Building and Training a Convolutional Neural Network in Keras
 
 <p align="center">
 <img width="655" alt="Screen Shot 2020-10-01 at 11 23 37 AM" src="https://user-images.githubusercontent.com/53641091/94848254-9a364800-03d8-11eb-8c34-80ae970ddb4f.png">
