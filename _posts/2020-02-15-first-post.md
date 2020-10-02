@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 'IMDb Webscraping Project '
+title: 'IMDb Webscraping Project'
 published: true
+thumbnail: /Downloads/webscraping.png
 date: '2020-02-15'
 ---
 # Webscraping IMDb's website and developing dataset
