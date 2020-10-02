@@ -4,7 +4,7 @@ published: true
 title: Perform Sentiment Analysis with SciKit-Learn
 date: '2020-09-27'
 ---
-## Performing Sentiment Analysis on a popular IMDB Dataset Using SciKit-Learn
+## Performing Sentiment Analysis on a Popular IMDB Dataset Using SciKit-Learn
 
 <p align="center">
 <img width="623" alt="Screen Shot 2020-10-01 at 11 01 15 AM" src="https://user-images.githubusercontent.com/53641091/94846260-b4baf200-03d5-11eb-8e63-3f6932aa7e30.png">
