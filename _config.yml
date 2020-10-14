@@ -20,7 +20,7 @@ description: Taking a deep dive inside the world of data
 
 # List of links in the navigation bar
 navbar-links:
-  Author's home: "https://github.com/lopez-christian"
+  My GitHub: "https://github.com/lopez-christian"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
