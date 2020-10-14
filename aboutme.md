@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about me
-subtitle: HERE IT IS
+title: a little bit
+subtitle: ABOUT ME
 ---
 
 <p align = 'center'>
