@@ -102,7 +102,7 @@ ___
 
 [LINK TO GITHUB REPO](https://github.com/lopez-christian/IBM_Coursera_Capstone)
 
-[LINK TO PROFESSIONAL CERTIFICATE]()
+[LINK TO PROFESSIONAL CERTIFICATE](https://www.coursera.org/account/accomplishments/specialization/certificate/WUM7FEYCNTNX)
 
 <p align="center">
 <img width="563" alt="Screen Shot 2020-11-03 at 6 47 58 PM" src="https://user-images.githubusercontent.com/53641091/98063540-220ed800-1e05-11eb-9a57-6d7f28a4f0fb.png">
