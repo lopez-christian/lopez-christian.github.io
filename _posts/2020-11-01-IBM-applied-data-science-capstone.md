@@ -86,6 +86,14 @@ Conclusion section where you conclude the report.*
 *2. A link to your Notebook on your Github repository pushed showing your code. (15 marks)*
 
 *3. Your choice of a presentation or blogpost. (10 marks)*
+
+<p align="center">
+<img width="1086" alt="Screen Shot 2020-11-03 at 6 53 49 PM" src="https://user-images.githubusercontent.com/53641091/98063922-f9d3a900-1e05-11eb-94c6-d24271009a27.png">
+</p>
+
+<p align="center">
+<img width="1086" alt="Screen Shot 2020-11-03 at 6 54 08 PM" src="https://user-images.githubusercontent.com/53641091/98063930-fcce9980-1e05-11eb-9f92-0d22dcf9b171.png">
+</p>
 ___
 
 #### <ins> HELPFUL LINKS: </ins>
