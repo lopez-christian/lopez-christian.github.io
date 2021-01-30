@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Getting Started with Power BI Desktop
-date: '2020-10-01'
+date: '2021-01-29'
 ---
 ## The Basics of Getting Started with Power BI
 
