@@ -7,7 +7,7 @@ date: '2021-01-29'
 ## The Basics of Getting Started with Power BI
 
 <p align="center">
-<img width="637" alt="Screen Shot 2021-01-29 at 10 12 36 PM" src="https://user-images.githubusercontent.com/53641091/106348986-21a8a080-627f-11eb-96cd-44e55779b86a.png">
+<img width="635" alt="Screen Shot 2021-01-29 at 10 19 14 PM" src="https://user-images.githubusercontent.com/53641091/106349112-0a1de780-6280-11eb-8b29-157c572395aa.png">
 </p>
 
 <p align="center">
@@ -16,60 +16,56 @@ date: '2021-01-29'
 
 #### <ins> KEY CONCEPTS: </ins>
 
-Develop a facial expression recognition model in Keras
+Import and Transform Data with Power BI Desktop
 
-Build and train a convolutional neural network (CNN)
-
-Deploy the trained model to a web interface with Flask
-
-Apply the model to real-time video streams and image data
+Visualize Data and Create Reports with Power BI Desktop
 
 #### <ins> PROJECT PURPOSE: </ins>
 
-In this 2-hour long project-based course from Coursera Project Network, I built and trained a convolutional neural network (CNN) in Keras from scratch to recognize facial expressions. The data consisted of 48x48 pixel grayscale images of faces. The objective was to classify each face based on the emotion shown in the facial expression into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). I used OpenCV to automatically detect faces in images and draw bounding boxes around them. Once the CNN was trained, saved, and exported, the trained model predictions were directly served to a web interface and performed real-time facial expression recognition on video and image data.
+Learned the basics of using Power BI Desktop software. Analyzed data on credit card defaults with Power BI Desktop. Power BI Desktop is a free Business Intelligence application from Microsoft that lets you load, transform, and visualize data. You can create interactive reports and dashboards quite easily, and quickly. Learned how to import, transform, and visualize the data.
 
 #### <ins> PROJECT OUTLINE: </ins>
 
-Task 1: Introduction and Overview
+Task 1: Introduction
 
-Task 2: Explore the Dataset
+Task 2: Overview of the Rhyme Interface
 
-Task 3: Generate Training and Validation Batches
+Task 3: Importing the Data
 
-Task 4: Creating a Convolutional Neural Network (CNN) Model
+Task 4: Fixing the Column Names
 
-Task 5: Train and Evaluate Model
+Task 5: Tranforming the Data
 
-Task. 6: Represent Model as JSON String
+Task. 6: Getting Started with Reports
 
-Task 7: Create a Flask App to Serve Predictions
+Task 7: Defaults by Education Level
 
-Task 8: Design a HTML Template for the Flask App
+Task 8: Defaults by State
 
-Task 9: Use Model to Recognize Facial Expressions in Videos
+Task 9: Defaulter Ratio and Slicing the Data
 
 #### <ins> PROJECT SCREENSHOTS: </ins>
 
 <p align="center">
-<img width="1151" alt="Screen Shot 2020-10-01 at 11 40 11 AM" src="https://user-images.githubusercontent.com/53641091/94849845-e4b8c400-03da-11eb-9b8c-cb93d44b35b5.png">
+<img width="972" alt="Screen Shot 2021-01-29 at 10 26 15 PM" src="https://user-images.githubusercontent.com/53641091/106349213-0b034900-6281-11eb-9250-2d43c5220163.png">
 </p>
 
 <p align="center">
-<img width="1136" alt="Screen Shot 2020-10-01 at 11 41 51 AM" src="https://user-images.githubusercontent.com/53641091/94850036-32353100-03db-11eb-862e-82e41d380407.png">
+<img width="760" alt="Screen Shot 2021-01-29 at 9 39 23 PM" src="https://user-images.githubusercontent.com/53641091/106349218-18203800-6281-11eb-970f-1dd7ae3a6ed1.png">
 </p>
 
 <p align="center">
-<img width="1136" alt="Screen Shot 2020-10-01 at 11 42 09 AM" src="https://user-images.githubusercontent.com/53641091/94850110-4aa54b80-03db-11eb-8f69-579bfc510dd3.png">
+<img width="868" alt="Screen Shot 2021-01-29 at 10 28 13 PM" src="https://user-images.githubusercontent.com/53641091/106349238-5584c580-6281-11eb-934f-b22c12ac6f84.png">
 </p>
 
 #### <ins> HELPFUL LINKS: </ins>
 
-[COURSERA PROJECT LINK](https://www.coursera.org/projects/facial-expression-recognition-keras?)
+[COURSERA PROJECT LINK](https://www.coursera.org/projects/power-bi-desktop?)
 
-[PROJECT GOOGLE DRIVE](https://drive.google.com/drive/folders/1QWxs0fjIkVTiViYJ7PHiDaZUK8qFIwbz?usp=sharing)
+[PROJECT GOOGLE DRIVE](https://drive.google.com/drive/folders/1vxQcstEILewHjiuNv-DXlO9LGoZpBBNR?usp=sharing)
 
-[MY COURSE CERTIFICATE](https://www.coursera.org/account/accomplishments/certificate/JE6JZBB73T9U)
+[MY COURSE CERTIFICATE](https://www.coursera.org/account/accomplishments/verify/XJQXG44QZ8YP)
 
 <p align="center">
-<img width="598" alt="Screen Shot 2020-10-01 at 11 47 38 AM" src="https://user-images.githubusercontent.com/53641091/94850772-4b8aad00-03dc-11eb-9d06-6ba8896b0e3d.png">
+<img width="735" alt="Screen Shot 2021-01-29 at 10 35 08 PM" src="https://user-images.githubusercontent.com/53641091/106349363-45211a80-6282-11eb-9d34-e34e8efbce89.png">
 </p>
